@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bolita{
+    background-image: url('../src/assets/img/circuloverde.png');
+    background-position: -97px -124px;
+    background-repeat: no-repeat;
+    background-size: 134%;
+}
+
+.fondoGetStarted{
+    background-color: #489967;
+}
+
+.carousel{
+    background: linear-gradient(to top, #60DEB1, #0EB177);
+}
+
+.carousel2{
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.boton-amarillo{
+    background-color: #FFE082;
+}
+
+.boton{
+    background-color: #4CAD73;
+}
+
+.boton1{
+    color: #4CAD73;
+}
+
+.cartas{ ;
+    height: 250px;
+    width: 157px;
+    box-shadow: 2px 5px 5px 5px rgba(0, 0, 0, 0.1) ;
+
+}
